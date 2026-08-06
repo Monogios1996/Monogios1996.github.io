@@ -1,0 +1,17 @@
+title: MSc Artificial Intelligence e-Portfolio
+description: University of Essex Online e-Portfolio
+url: "https://monogios1996.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+
+collections: {}
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md

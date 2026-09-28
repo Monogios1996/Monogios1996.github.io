@@ -70,6 +70,31 @@ Apply these communication concepts to later agent-system design work by distingu
 
 ---
 
+## Unit 6 — Creating Agent Dialogues Using KQML and KIF
+
+**Topics studied:**  
+KQML message structure, `ask-one` and `tell` performatives, sender and receiver fields, KIF as a content language, variables in knowledge queries and simple agent request-response communication.
+
+**Activity completed:**  
+Created a four-message dialogue between Alice, a procurement agent, and Bob, a warehouse stock agent. Alice queries the quantity of 50-inch televisions and their number of HDMI slots; Bob returns the corresponding facts.
+
+**Important concept:**  
+The exercise made the separation between KQML and KIF practical. KQML describes the communication act and message metadata, while KIF expresses the actual query or fact. This made the conceptual distinction from Collaborative Discussion 2 much clearer than reading definitions alone.
+
+**Limitation recognised:**  
+The dialogue demonstrates only a simple successful interaction. It does not address ontology declarations, refusal, errors, authentication, conversation management or executable implementation, so it should not be over-interpreted as evidence of a deployed multi-agent system.
+
+**Evidence created:**  
+- [Agent Dialogue Using KQML and KIF]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-agent-dialogue-kqml-kif/' | relative_url }})
+
+**Learning outcome supported:**  
+Primarily LO1. It also provides conceptual preparation for LO3 without yet constituting full implementation evidence.
+
+**Next action:**  
+Use later implementation exercises to move from manually structured messages to executable agent communication and evaluation.
+
+---
+
 ## Weekly entry template
 
 ### Unit / week

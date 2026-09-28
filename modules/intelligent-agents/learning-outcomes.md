@@ -5,13 +5,13 @@ permalink: /modules/intelligent-agents/learning-outcomes/
 
 # Learning Outcomes
 
-The evidence in this module portfolio will be mapped against the following outcomes.
+The evidence in this module portfolio is mapped against the following outcomes.
 
 ## LO1 — Analysis of agent-based systems
 
 **Identify and critically analyse agent-based systems, differentiating between architectures and approaches.**
 
-Planned evidence may include architecture comparisons, discussion summaries, reading notes and team design decisions.
+Current evidence includes Collaborative Discussion 1, where I distinguished operational multi-agent systems from agent-based modelling and simulation, compared reactive, deliberative and hybrid architectures, and refined the analysis through discussion of emergent behaviour, coordination and bounded autonomy.
 
 ## LO2 — Application under risk and uncertainty
 
@@ -29,14 +29,14 @@ Planned evidence may include source code, architecture diagrams, software-tool r
 
 **Systematically develop and implement the skills required to be an effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.**
 
-Planned evidence may include meeting notes, task allocation, contribution records, peer feedback, communication decisions and critical reflection on team effectiveness.
+Current evidence includes structured peer engagement in Collaborative Discussion 1: responding constructively to alternative arguments, receiving critique, interpreting that feedback and revising my final position accordingly.
 
 ## Evidence mapping table
 
 | Portfolio evidence | LO1 | LO2 | LO3 | LO4 | Status |
 |---|:---:|:---:|:---:|:---:|---|
-| Collaborative discussion summaries | ✓ |  |  | ✓ | Awaiting completion |
+| [Collaborative Discussion 1 — Agent-Based Systems]({{ '/modules/intelligent-agents/collaborative-discussions/' | relative_url }}) | ✓ |  |  | ✓ | Completed |
 | Team exercises | ✓ | ✓ | ✓ | ✓ | Awaiting completion |
 | Technical artefacts |  | ✓ | ✓ |  | Awaiting completion |
-| Meeting notes and feedback |  |  |  | ✓ | To be recorded throughout module |
+| Meeting notes and feedback |  |  |  | ✓ | In progress |
 | Reflective piece | ✓ | ✓ | ✓ | ✓ | To be completed near module end |

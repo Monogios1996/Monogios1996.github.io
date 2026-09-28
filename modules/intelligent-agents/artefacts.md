@@ -15,6 +15,9 @@ This page indexes substantive evidence created during the module.
 | Unit 2 | Peer Responses | Academic peer review / discussion | Individual contribution to collaborative activity | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-02-peer-responses/' | relative_url }}) |
 | Unit 2 | Feedback Received | Peer feedback record | Collaborative | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-02-feedback-received/' | relative_url }}) |
 | Unit 3 | Agent-Based Systems Summary Post | Reflective synthesis | Individual | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-03-summary-post/' | relative_url }}) |
+| Unit 5 | Agent Communication Languages Initial Post | Academic discussion post | Individual | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-05-agent-communication-languages-initial-post/' | relative_url }}) |
+| Unit 6 | Agent Communication Languages Peer Responses | Academic peer review / discussion | Individual contribution to collaborative activity | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-06-agent-communication-languages-peer-responses/' | relative_url }}) |
+| Unit 7 | Agent Communication Languages Summary Post | Reflective synthesis | Individual | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-07-agent-communication-languages-summary-post/' | relative_url }}) |
 
 ## Collaborative Discussion 1
 
@@ -27,6 +30,20 @@ This page indexes substantive evidence created during the module.
 **Feedback and action:** Peer feedback identified areas that were underdeveloped in the initial post. These were explicitly addressed in the Unit 3 summary rather than simply acknowledged.
 
 **Learning outcomes:** LO1 and LO4.
+
+---
+
+## Collaborative Discussion 2
+
+**Purpose:** To compare agent communication languages such as KQML with method invocation in Python and Java, including the advantages and disadvantages of each approach.
+
+**My contribution:** I produced the initial comparison, responded critically to two classmates, challenged specific technical assumptions, proposed practical mitigation measures for semantic and interoperability problems, and submitted the final 300-word synthesis.
+
+**Key development:** The activity moved my analysis beyond a simple contrast between “ACLs for distributed systems” and “methods for conventional programming”. I developed a more precise distinction between communicative intent and procedural interfaces, and recognised that syntactic interoperability is insufficient without shared semantics, ontology governance, validation and conformance.
+
+**Feedback and action:** No direct peer responses were received on my initial post. Rather than creating artificial feedback, I used the genuine peer-review stage as the source of alternative perspectives for the final synthesis. This is recorded transparently in the evidence.
+
+**Learning outcomes:** LO1 and LO4 for the formal e-portfolio mapping.
 
 ---
 

@@ -95,6 +95,28 @@ Use later implementation exercises to move from manually structured messages to 
 
 ---
 
+## Unit 8 — Constituency-Based Parse Trees
+
+**Topics studied:**  
+Constituency parsing, phrase structure, noun phrases, verb phrases, prepositional phrases and syntactic ambiguity.
+
+**Activity completed:**  
+Created constituency-based parse trees for the three supplied sentences. For the ambiguous sentence *The man saw the dog with the telescope*, I represented both possible PP attachments.
+
+**Important concept:**  
+The activity showed that sentence meaning can depend on hierarchical phrase structure rather than word order alone. In the third sentence, attaching *with the telescope* to the VP gives an instrumental reading, while attaching it to the NP gives a different interpretation.
+
+**Evidence created:**  
+- [Constituency-Based Parse Trees]({{ '/modules/intelligent-agents/evidence/artefacts/unit-08-constituency-parse-trees/' | relative_url }})
+
+**Learning outcome supported:**  
+Supporting evidence for LO3 through practical application of a natural-language processing technique.
+
+**Next action:**  
+Use this distinction between syntax and meaning when evaluating language-processing components in intelligent systems.
+
+---
+
 ## Weekly entry template
 
 ### Unit / week

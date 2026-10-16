@@ -1,9 +1,23 @@
+---
+title: Collaborative Discussion 1 — Initial Post
+permalink: /modules/intelligent-agents/evidence/discussions/unit-01-agent-based-systems-initial-post/
+---
+
 # Collaborative Discussion 1 — Initial Post
 
 **Topic:** Agent-Based Systems  
 **Unit:** 1  
-**Learning outcomes:** LO1 and LO4  
 **Status:** Submitted
+
+## Activity brief
+
+**Discussion topic:** Discuss what has led to the rise of agent-based systems and the benefits that this approach can offer to organisations. The discussion should include at least three references.
+
+**Learning outcomes:**
+- An understanding of the motivations for, and appropriate use of, agent-based computing.
+- An understanding of the main agent models in use today and their grounding in artificial intelligence research.
+
+**Initial-post requirement:** At least 200 words, labelled **Initial Post**, with appropriate citations and references.
 
 ## Initial Post
 
@@ -17,16 +31,16 @@ For organizations, these approaches can improve modularity, adaptability, scalab
 
 Nevertheless, autonomy is not automatically beneficial. Distributed decision-making can create coordination costs, conflicting local objectives and system-level behavior that is difficult to predict. Even when the rules of individual agents are transparent, outcomes emerging from many interactions may be difficult to explain or validate (Macal & North, 2010; Sycara, 1998). Operational agents can also amplify poor data or badly specified objectives. Agent-based systems are therefore most appropriate when autonomy, interaction and decentralized control are intrinsic to the problem. Their organizational value depends on selecting an appropriate architecture, validating behavior, restricting permissions and retaining meaningful human oversight.
 
-## References
+**References**
 
-Bonabeau, E. (2002) ‘Agent-based modeling: methods and techniques for simulating human systems’, *Proceedings of the National Academy of Sciences*, 99(Suppl. 3), pp. 7280–7287. doi:10.1073/pnas.082080899.
+Bonabeau, E. (2002) Agent-based modeling: methods and techniques for simulating human systems. *Proceedings of the National Academy of Sciences* 99(Suppl. 3): 7280–7287. DOI: 10.1073/pnas.082080899
 
-Brooks, R.A. (1991) ‘Intelligence without representation’, *Artificial Intelligence*, 47(1–3), pp. 139–159. doi:10.1016/0004-3702(91)90053-M.
+Brooks, R.A. (1991) Intelligence without representation. *Artificial Intelligence* 47(1–3): 139–159. DOI: 10.1016/0004-3702(91)90053-M
 
-Macal, C.M. and North, M.J. (2010) ‘Tutorial on agent-based modelling and simulation’, *Journal of Simulation*, 4(3), pp. 151–162. doi:10.1057/jos.2010.3.
+Macal, C.M. & North, M.J. (2010) Tutorial on agent-based modelling and simulation. *Journal of Simulation* 4(3): 151–162. DOI: 10.1057/jos.2010.3
 
-Rao, A.S. and Georgeff, M.P. (1995) ‘BDI agents: from theory to practice’, *Proceedings of the First International Conference on Multiagent Systems*. San Francisco, 12–14 June. Menlo Park, CA: AAAI Press, pp. 312–319.
+Rao, A.S. & Georgeff, M.P. (1995) ‘BDI agents: from theory to practice’, *Proceedings of the First International Conference on Multiagent Systems*. San Francisco, 12–14 June. Menlo Park, CA: AAAI Press. 312–319.
 
-Sycara, K.P. (1998) ‘Multiagent systems’, *AI Magazine*, 19(2), pp. 79–92. doi:10.1609/aimag.v19i2.1370.
+Sycara, K.P. (1998) Multiagent systems. *AI Magazine* 19(2): 79–92. DOI: 10.1609/aimag.v19i2.1370
 
-Wooldridge, M. and Jennings, N.R. (1995) ‘Intelligent agents: theory and practice’, *The Knowledge Engineering Review*, 10(2), pp. 115–152. doi:10.1017/S0269888900008122.
+Wooldridge, M. & Jennings, N.R. (1995) Intelligent agents: theory and practice. *The Knowledge Engineering Review* 10(2): 115–152. DOI: 10.1017/S0269888900008122

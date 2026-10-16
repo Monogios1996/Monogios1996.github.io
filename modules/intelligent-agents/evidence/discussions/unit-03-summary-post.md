@@ -1,9 +1,15 @@
+---
+title: Collaborative Discussion 1 — Summary Post
+permalink: /modules/intelligent-agents/evidence/discussions/unit-03-summary-post/
+---
+
 # Collaborative Discussion 1 — Summary Post
 
 **Topic:** Agent-Based Systems  
 **Unit:** 3  
-**Learning outcomes:** LO1 and LO4  
-**Status:** Completed
+**Status:** Submitted
+
+The activity required a 300-word summary based on the initial post, peer feedback and the content of Units 1–3. The text below reproduces my submitted summary.
 
 ## Summary Post
 
@@ -15,7 +21,7 @@ I also reconsidered the relationship between autonomy and control. A determinist
 
 Overall, I now see agent-based systems less as a choice between centralised and decentralised control and more as a design problem involving the appropriate distribution of autonomy, coordination and oversight. Their value depends on intelligent local behaviour and how interactions are governed at system level.
 
-## References
+**References:**
 
 Brooks, R.A. (1991) ‘Intelligence without representation’, *Artificial Intelligence*, 47(1–3), pp. 139–159. doi:10.1016/0004-3702(91)90053-M.
 

@@ -40,6 +40,7 @@ Current evidence includes structured peer engagement across both collaborative d
 | [Collaborative Discussion 1 — Agent-Based Systems]({{ '/modules/intelligent-agents/collaborative-discussions/' | relative_url }}) | ✓ |  |  | ✓ | Completed |
 | [Collaborative Discussion 2 — Agent Communication Languages]({{ '/modules/intelligent-agents/collaborative-discussions/' | relative_url }}) | ✓ |  |  | ✓ | Completed |
 | [Unit 6 — Agent Dialogue Using KQML and KIF]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-agent-dialogue-kqml-kif/' | relative_url }}) | ✓ |  | Supporting |  | Completed |
+| [Unit 8 — Constituency-Based Parse Trees]({{ '/modules/intelligent-agents/evidence/artefacts/unit-08-constituency-parse-trees/' | relative_url }}) |  |  | Supporting |  | Completed |
 | Team exercises | ✓ | ✓ | ✓ | ✓ | Awaiting completion |
 | Technical implementation artefacts |  | ✓ | ✓ |  | Awaiting completion |
 | Meeting notes and feedback |  |  |  | ✓ | In progress |

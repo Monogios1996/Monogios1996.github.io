@@ -19,6 +19,7 @@ This page indexes substantive evidence created during the module.
 | Unit 6 | Agent Communication Languages Peer Responses | Academic peer review / discussion | Individual contribution to collaborative activity | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-06-agent-communication-languages-peer-responses/' | relative_url }}) |
 | Unit 6 | Agent Dialogue Using KQML and KIF | Structured agent-communication exercise | Individual | LO1 | [View]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-agent-dialogue-kqml-kif/' | relative_url }}) |
 | Unit 7 | Agent Communication Languages Summary Post | Reflective synthesis | Individual | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-07-agent-communication-languages-summary-post/' | relative_url }}) |
+| Unit 8 | Constituency-Based Parse Trees | NLP / parsing exercise | Individual | LO3 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/artefacts/unit-08-constituency-parse-trees/' | relative_url }}) |
 
 ## Collaborative Discussion 1
 
@@ -65,6 +66,22 @@ This page indexes substantive evidence created during the module.
 **Learning outcomes:** Primarily LO1. It also provides conceptual preparation for LO3, but is not treated as full implementation evidence.
 
 **Evidence:** [View completed artefact]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-agent-dialogue-kqml-kif/' | relative_url }})
+
+---
+
+## Unit 8 — Constituency-Based Parse Trees
+
+**Purpose:** To represent the phrase structure of three supplied sentences using constituency-based parse trees and identify syntactic ambiguity.
+
+**My contribution:** I constructed the required trees using explicit phrase labels (S, NP, VP and PP) and represented both valid attachments of the prepositional phrase in the ambiguous sentence *The man saw the dog with the telescope*.
+
+**Key result:** The activity demonstrates hierarchical sentence structure and shows how PP attachment can produce different meanings from the same sequence of words.
+
+**Limitations:** This is manual parsing evidence rather than evaluation of an automated parser.
+
+**Learning outcome:** Supporting evidence for LO3 through application of a natural-language processing technique used in intelligent systems.
+
+**Evidence:** [View completed artefact]({{ '/modules/intelligent-agents/evidence/artefacts/unit-08-constituency-parse-trees/' | relative_url }})
 
 ---
 

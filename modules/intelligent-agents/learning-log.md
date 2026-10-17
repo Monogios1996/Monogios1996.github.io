@@ -44,7 +44,7 @@ Carry the concepts of bounded autonomy, coordination, system-level constraints a
 KQML; agent communication languages; performatives and speech acts; loose coupling; semantic interoperability; shared ontologies; protocol conformance; method invocation in Python and Java; autonomy; message validation; ontology governance; auditability and hybrid communication architectures.
 
 **Activities completed:**  
-Completed the Unit 5 initial post, wrote two critical peer responses in Unit 6, and submitted the Unit 7 summary post. No direct responses were received on my own initial post, so the final synthesis was based on genuine engagement with classmates' arguments and the Units 5–7 learning content rather than manufactured feedback.
+Completed the Unit 5 initial post, wrote two critical peer responses in Unit 6, received one direct peer response on my own initial post, and submitted the Unit 7 summary post. The feedback reinforced the importance of constrained performatives, ontology governance, message validation and traceability.
 
 **Important concepts or arguments:**  
 My initial comparison focused on KQML as a semantic communication mechanism for autonomous, heterogeneous agents and method invocation as a more direct interface-oriented mechanism. During peer review, this distinction became more precise. Method calls are not necessarily “always obeyed”, and they do not always require compile-time interface knowledge. The stronger distinction concerns abstraction and decision authority: ACLs represent communicative intent, while methods normally encode operations.
@@ -60,6 +60,7 @@ The discussion connected intelligent-agent communication to broader software arc
 **Evidence created:**  
 - [Initial Post]({{ '/modules/intelligent-agents/evidence/discussions/unit-05-agent-communication-languages-initial-post/' | relative_url }})
 - [Peer Responses]({{ '/modules/intelligent-agents/evidence/discussions/unit-06-agent-communication-languages-peer-responses/' | relative_url }})
+- [Peer Feedback Received]({{ '/modules/intelligent-agents/evidence/discussions/unit-06-agent-communication-languages-feedback-received/' | relative_url }})
 - [Summary Post]({{ '/modules/intelligent-agents/evidence/discussions/unit-07-agent-communication-languages-summary-post/' | relative_url }})
 
 **Learning outcomes supported:**  

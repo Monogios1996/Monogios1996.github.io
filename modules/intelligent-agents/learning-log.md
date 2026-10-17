@@ -147,6 +147,30 @@ Supporting evidence for LO3 through ethical and professional analysis, and LO4 t
 
 **Next action:**  
 Apply the same standard to later system evaluation: do not assume a safeguard is effective because it exists; assess whether it can actually detect, challenge and correct harmful outcomes.
+---
+
+## Unit 10 — Deep Learning in Action: NVIDIA DLSS
+
+**Topics studied:**  
+Deep-learning image reconstruction, Super Resolution, Frame Generation, transformer-based graphics models, specialised AI hardware, consumer transparency, hardware accessibility and environmental claims.
+
+**Activity completed:**  
+Researched NVIDIA DLSS as a real-world application of deep learning and evaluated both its technical operation and wider socio-technical implications.
+
+**Important concept:**  
+The activity reinforced that a technical improvement should not be evaluated through a single metric. A higher displayed frame rate does not necessarily imply equivalent improvements in latency or responsiveness, and possible energy savings cannot be assumed without comparable measurements.
+
+**Connection to prior learning or professional practice:**  
+The exercise linked deep-learning model capability with questions of product communication, evidence quality and user impact. It showed why technical claims should be separated from marketing interpretation and why social effects such as affordability and ecosystem dependence matter when evaluating AI-enabled products.
+
+**Evidence created:**  
+- [Deep Learning in Action — NVIDIA DLSS]({{ '/modules/intelligent-agents/evidence/artefacts/unit-10-deep-learning-in-action-dlss/' | relative_url }})
+
+**Learning outcome supported:**  
+Supporting evidence for LO3 through critical evaluation of an applied deep-learning technology and its socio-technical implications.
+
+**Next action:**  
+Apply the same evidence-based approach when assessing performance, risk and claimed benefits in the final intelligent-agent implementation.
 
 ---
 

@@ -74,9 +74,11 @@ The second response qualified the claim that method invocation always requires c
 
 **Evidence:** [Peer Responses]({{ '/modules/intelligent-agents/evidence/discussions/unit-06-agent-communication-languages-peer-responses/' | relative_url }})
 
-### Direct feedback on my initial post
+### Feedback received
 
-No direct peer responses were received on my initial post. I did not create artificial feedback to make the discussion appear more interactive. Instead, the final synthesis drew on the genuine peer-review work I completed, the alternative arguments encountered in classmates' posts, and the Units 5–7 learning content.
+One direct peer response was received on my initial post. It supported the distinction between ACLs and method invocation and developed the governance implications further, particularly the use of constrained performatives, documented ontologies, message validation and permanent logging to improve interoperability and accountability.
+
+**Evidence:** [Feedback Received]({{ '/modules/intelligent-agents/evidence/discussions/unit-06-agent-communication-languages-feedback-received/' | relative_url }})
 
 ### Final synthesis
 

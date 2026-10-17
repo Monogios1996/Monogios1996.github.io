@@ -115,6 +115,38 @@ Supporting evidence for LO3 through practical application of a natural-language 
 
 **Next action:**  
 Use this distinction between syntax and meaning when evaluating language-processing components in intelligent systems.
+---
+
+## Units 9–11 — Deep Learning Collaborative Discussion
+
+**Topics studied:**  
+Ethical issues in generative AI; bias; privacy; intellectual property; training-data memorisation; misinformation and deepfakes; provenance; human oversight; accountability; continuous evaluation and lifecycle risk management.
+
+**Activities completed:**  
+Completed the Unit 9 initial post, responded critically to two peers in Unit 10, received two peer responses on my own post, and submitted the Unit 11 summary.
+
+**Important concepts or arguments:**  
+My initial position treated generative AI ethics as a sociotechnical problem involving both model behaviour and deployment context. Peer feedback strengthened this position but also exposed an assumption in my original safeguards: human review cannot be treated as automatically effective. Meaningful oversight depends on reviewer expertise, access to evidence, authority to reject outputs and clear accountability structures.
+
+The feedback also reinforced that safeguards should operate across the full AI lifecycle. Dataset provenance, consent, sensitive-data filtering, monitoring, reporting mechanisms and repeated evaluation are not one-off deployment controls.
+
+**Questions or difficulties:**  
+The most difficult issue was accountability in systems where responsibility is distributed across developers, deploying organisations and human reviewers. A nominal human-in-the-loop arrangement can create the appearance of accountability without ensuring that the reviewer has the information or authority needed to challenge the system.
+
+**Connection to prior learning or professional practice:**  
+The discussion connected ethical evaluation with system design and governance. It reinforced that responsible AI cannot be assessed only through model outputs; the surrounding controls, escalation routes, evidence trails and organisational incentives also determine whether safeguards work in practice.
+
+**Evidence created:**  
+- [Initial Post]({{ '/modules/intelligent-agents/evidence/discussions/unit-09-deep-learning-initial-post/' | relative_url }})
+- [Peer Responses]({{ '/modules/intelligent-agents/evidence/discussions/unit-10-deep-learning-peer-responses/' | relative_url }})
+- [Peer Feedback Received]({{ '/modules/intelligent-agents/evidence/discussions/unit-10-deep-learning-feedback-received/' | relative_url }})
+- [Summary Post]({{ '/modules/intelligent-agents/evidence/discussions/unit-11-deep-learning-summary-post/' | relative_url }})
+
+**Learning outcomes supported:**  
+Supporting evidence for LO3 through ethical and professional analysis, and LO4 through structured peer engagement.
+
+**Next action:**  
+Apply the same standard to later system evaluation: do not assume a safeguard is effective because it exists; assess whether it can actually detect, challenge and correct harmful outcomes.
 
 ---
 

@@ -25,7 +25,7 @@ Planned evidence may include problem analysis, design rationale, testing, failur
 
 **Deploy critically appropriate software tools and skills for the design and implementation of an agent-based system, bearing in mind applicable legal, social, ethical and professional issues.**
 
-Planned evidence may include source code, architecture diagrams, software-tool rationale, tests, documentation and system-specific ethical or legal analysis. Collaborative Discussion 2 and the Unit 6 KQML/KIF dialogue provide supporting conceptual preparation. Collaborative Discussion 3 provides supporting evidence through its analysis of bias, privacy, intellectual property, provenance, accountability and human oversight. Implementation evidence will still be used for the formal demonstration of this outcome.
+Planned evidence may include source code, architecture diagrams, software-tool rationale, tests, documentation and system-specific ethical or legal analysis. Collaborative Discussion 2 and the Unit 6 KQML/KIF dialogue provide supporting conceptual preparation. Collaborative Discussion 3 provides supporting evidence through its analysis of bias, privacy, intellectual property, provenance, accountability and human oversight. The Unit 10 DLSS activity adds applied evidence by evaluating a real-world deep-learning technology in relation to performance claims, hardware accessibility, consumer transparency and environmental uncertainty. Implementation evidence will still be used for the formal demonstration of this outcome.
 
 ## LO4 — Virtual teamwork and professional practice
 
@@ -42,6 +42,7 @@ Current evidence includes structured peer engagement across all three collaborat
 | [Collaborative Discussion 3 — Deep Learning]({{ '/modules/intelligent-agents/collaborative-discussions/' | relative_url }}) |  |  | Supporting | ✓ | Completed |
 | [Unit 6 — Agent Dialogue Using KQML and KIF]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-agent-dialogue-kqml-kif/' | relative_url }}) | ✓ |  | Supporting |  | Completed |
 | [Unit 8 — Constituency-Based Parse Trees]({{ '/modules/intelligent-agents/evidence/artefacts/unit-08-constituency-parse-trees/' | relative_url }}) |  |  | Supporting |  | Completed |
+| [Unit 10 — Deep Learning in Action: NVIDIA DLSS]({{ '/modules/intelligent-agents/evidence/artefacts/unit-10-deep-learning-in-action-dlss/' | relative_url }}) |  |  | Supporting |  | Completed |
 | Team exercises | ✓ | ✓ | ✓ | ✓ | Awaiting completion |
 | Technical implementation artefacts |  | ✓ | ✓ |  | Awaiting completion |
 | Meeting notes and feedback |  |  |  | ✓ | In progress |

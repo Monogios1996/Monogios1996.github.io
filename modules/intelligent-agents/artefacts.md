@@ -17,6 +17,7 @@ This page indexes substantive evidence created during the module.
 | Unit 3 | Agent-Based Systems Summary Post | Reflective synthesis | Individual | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-03-summary-post/' | relative_url }}) |
 | Unit 5 | Agent Communication Languages Initial Post | Academic discussion post | Individual | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-05-agent-communication-languages-initial-post/' | relative_url }}) |
 | Unit 6 | Agent Communication Languages Peer Responses | Academic peer review / discussion | Individual contribution to collaborative activity | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-06-agent-communication-languages-peer-responses/' | relative_url }}) |
+| Unit 6 | Agent Communication Languages Feedback Received | Peer feedback record | Collaborative | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-06-agent-communication-languages-feedback-received/' | relative_url }}) |
 | Unit 6 | Agent Dialogue Using KQML and KIF | Structured agent-communication exercise | Individual | LO1 | [View]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-agent-dialogue-kqml-kif/' | relative_url }}) |
 | Unit 7 | Agent Communication Languages Summary Post | Reflective synthesis | Individual | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-07-agent-communication-languages-summary-post/' | relative_url }}) |
 | Unit 8 | Constituency-Based Parse Trees | NLP / parsing exercise | Individual | LO3 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/artefacts/unit-08-constituency-parse-trees/' | relative_url }}) |
@@ -43,7 +44,7 @@ This page indexes substantive evidence created during the module.
 
 **Key development:** The activity moved my analysis beyond a simple contrast between “ACLs for distributed systems” and “methods for conventional programming”. I developed a more precise distinction between communicative intent and procedural interfaces, and recognised that syntactic interoperability is insufficient without shared semantics, ontology governance, validation and conformance.
 
-**Feedback and action:** No direct peer responses were received on my initial post. Rather than creating artificial feedback, I used the genuine peer-review stage as the source of alternative perspectives for the final synthesis. This is recorded transparently in the evidence.
+**Feedback and action:** One direct peer response was received on my initial post. It reinforced the importance of constrained semantics, ontology governance, message validation and permanent logging. I also developed the discussion through my two peer responses, which challenged claims about method invocation and explored practical governance measures.
 
 **Learning outcomes:** LO1 and LO4 for the formal e-portfolio mapping.
 

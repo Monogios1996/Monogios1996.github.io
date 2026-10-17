@@ -25,13 +25,13 @@ Planned evidence may include problem analysis, design rationale, testing, failur
 
 **Deploy critically appropriate software tools and skills for the design and implementation of an agent-based system, bearing in mind applicable legal, social, ethical and professional issues.**
 
-Planned evidence may include source code, architecture diagrams, software-tool rationale, tests, documentation and system-specific ethical or legal analysis. Collaborative Discussion 2 and the Unit 6 KQML/KIF dialogue provide supporting conceptual preparation, but implementation evidence will be used for the formal demonstration of this outcome.
+Planned evidence may include source code, architecture diagrams, software-tool rationale, tests, documentation and system-specific ethical or legal analysis. Collaborative Discussion 2 and the Unit 6 KQML/KIF dialogue provide supporting conceptual preparation. Collaborative Discussion 3 provides supporting evidence through its analysis of bias, privacy, intellectual property, provenance, accountability and human oversight. Implementation evidence will still be used for the formal demonstration of this outcome.
 
 ## LO4 — Virtual teamwork and professional practice
 
 **Systematically develop and implement the skills required to be an effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.**
 
-Current evidence includes structured peer engagement across both collaborative discussions: responding constructively to alternative arguments, identifying assumptions that required qualification, supporting critiques with literature, incorporating feedback where available, and synthesising learning into final positions. In Discussion 2, no direct replies were received on my initial post; the final synthesis therefore drew transparently on the peer-review work I completed and the module content rather than implying feedback that did not occur.
+Current evidence includes structured peer engagement across all three collaborative discussions: responding constructively to alternative arguments, identifying assumptions that required qualification, supporting critiques with literature, incorporating direct peer feedback, and synthesising learning into final positions.
 
 ## Evidence mapping table
 
@@ -39,6 +39,7 @@ Current evidence includes structured peer engagement across both collaborative d
 |---|:---:|:---:|:---:|:---:|---|
 | [Collaborative Discussion 1 — Agent-Based Systems]({{ '/modules/intelligent-agents/collaborative-discussions/' | relative_url }}) | ✓ |  |  | ✓ | Completed |
 | [Collaborative Discussion 2 — Agent Communication Languages]({{ '/modules/intelligent-agents/collaborative-discussions/' | relative_url }}) | ✓ |  |  | ✓ | Completed |
+| [Collaborative Discussion 3 — Deep Learning]({{ '/modules/intelligent-agents/collaborative-discussions/' | relative_url }}) |  |  | Supporting | ✓ | Completed |
 | [Unit 6 — Agent Dialogue Using KQML and KIF]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-agent-dialogue-kqml-kif/' | relative_url }}) | ✓ |  | Supporting |  | Completed |
 | [Unit 8 — Constituency-Based Parse Trees]({{ '/modules/intelligent-agents/evidence/artefacts/unit-08-constituency-parse-trees/' | relative_url }}) |  |  | Supporting |  | Completed |
 | Team exercises | ✓ | ✓ | ✓ | ✓ | Awaiting completion |

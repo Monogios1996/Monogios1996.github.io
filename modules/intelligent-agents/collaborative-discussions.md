@@ -13,6 +13,7 @@ This section records the three-week collaborative discussion activities complete
 |---|---|---|---|---|---|
 | Agent-Based Systems | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-01-agent-based-systems-initial-post/' | relative_url }}) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-02-peer-responses/' | relative_url }}) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-03-summary-post/' | relative_url }}) | LO1, LO4 | Completed |
 | Agent Communication Languages | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-05-agent-communication-languages-initial-post/' | relative_url }}) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-06-agent-communication-languages-peer-responses/' | relative_url }}) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-07-agent-communication-languages-summary-post/' | relative_url }}) | LO1, LO4 | Completed |
+| Deep Learning | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-09-deep-learning-initial-post/' | relative_url }}) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-10-deep-learning-peer-responses/' | relative_url }}) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-11-deep-learning-summary-post/' | relative_url }}) | LO3, LO4 (supporting) | Completed |
 
 ---
 
@@ -91,13 +92,48 @@ I therefore concluded that ACLs and method invocation are **complementary rather
 ### What I learned
 
 This discussion strengthened my understanding of the distinction between communication syntax, semantics and implementation. A common protocol does not by itself guarantee interoperability: meaningful cooperation also depends on shared ontologies, agreed performative semantics, validation and governance. It also reinforced that the correct comparison is not simply KQML versus Python or Java, because communication protocols and internal method calls can occupy different layers of the same agent system.
+---
+
+## Collaborative Discussion 3 — Deep Learning
+
+### Purpose
+
+The third discussion examined ethical issues raised by generative technologies based on deep learning. It ran across Units 9–11 and required an initial post, at least two peer responses and a final summary based on the initial argument, peer feedback and the unit content.
+
+### Initial position
+
+My initial post argued that generative AI should be treated as a sociotechnical issue rather than only a technical one. I focused on bias, privacy, intellectual property, memorisation of training data, misinformation and deepfakes. I supported responsible adoption rather than rejection and proposed safeguards including dataset documentation, privacy-preserving approaches, provenance information, controls against impersonation, human review and organisational accountability.
+
+**Evidence:** [Initial Post]({{ '/modules/intelligent-agents/evidence/discussions/unit-09-deep-learning-initial-post/' | relative_url }})
+
+### Peer engagement
+
+In Unit 10, I responded to two classmates. One response focused on hallucination and bibliographic fabrication in academic systems, arguing that verification mechanisms can themselves fail and should therefore use primary sources, source identifiers, confidence states and escalation. The second examined copyright, academic integrity and synthetic-media provenance, arguing for combined transparency, licensing information, assessment redesign and verifiable provenance rather than relying only on visible labels.
+
+**Evidence:** [Peer Responses]({{ '/modules/intelligent-agents/evidence/discussions/unit-10-deep-learning-peer-responses/' | relative_url }})
+
+### Feedback received
+
+Two peers responded directly to my initial post. One strengthened the argument for lifecycle-wide safeguards, including provenance, consent, sensitive-data filtering, monitoring and periodic evaluation. The second challenged my reliance on human review by showing that human involvement does not automatically improve decision quality and that accountability can remain unclear when responsibility is distributed.
+
+**Evidence:** [Feedback Received]({{ '/modules/intelligent-agents/evidence/discussions/unit-10-deep-learning-feedback-received/' | relative_url }})
+
+### Final synthesis
+
+The final summary retained my sociotechnical framing but refined the meaning of effective oversight. I concluded that human review should not be treated as sufficient merely because a person is present. Reviewers require suitable expertise, evidence and authority, and responsibility must be explicitly allocated across developers, deploying organisations and reviewers. I also extended the original safeguards toward continuous testing and mechanisms for reporting harmful or reproduced content.
+
+**Evidence:** [Summary Post]({{ '/modules/intelligent-agents/evidence/discussions/unit-11-deep-learning-summary-post/' | relative_url }})
+
+### What I learned
+
+The most important development was moving from a checklist view of safeguards to an effectiveness-based view. A control such as human review, provenance or monitoring only has value if it can actually identify, challenge and correct harmful outcomes. This discussion therefore strengthened my understanding of ethical evaluation as part of system design, deployment and governance rather than a separate compliance exercise.
 
 ---
 
 ## Learning-outcome mapping
 
 **LO1 — Identify and critically analyse agent-based systems, differentiating between architectures and approaches.**  
-Both discussions demonstrate critical comparison of agent architectures, autonomy models and communication approaches. Discussion 2 extends this by examining how ACLs, performatives, semantics and conventional software interfaces shape agent interaction.
+Discussions 1 and 2 demonstrate critical comparison of agent architectures, autonomy models and communication approaches. Discussion 2 extends this by examining how ACLs, performatives, semantics and conventional software interfaces shape agent interaction.
 
 **LO4 — Develop the skills required to operate effectively in a virtual professional team environment.**  
-Both discussions provide evidence of structured academic peer engagement: interpreting alternative arguments, challenging specific claims constructively, supporting responses with literature, and incorporating those perspectives into final synthesis posts.
+All three discussions provide evidence of structured academic peer engagement: interpreting alternative arguments, challenging specific claims constructively, supporting responses with literature, receiving feedback, and incorporating those perspectives into final synthesis posts. Discussion 3 also provides supporting evidence for LO3 through its analysis of ethical and professional issues in generative AI.

@@ -1,3 +1,8 @@
+---
+title: Collaborative Discussion 2 — Initial Post
+permalink: /modules/intelligent-agents/evidence/discussions/unit-05-agent-communication-languages-initial-post/
+---
+
 # Collaborative Discussion 2 — Initial Post
 
 **Topic:** Agent Communication Languages  
@@ -18,7 +23,7 @@ Compared with ACLs, ordinary method invocation in Python or Java is generally mo
 
 Therefore, I do not see ACLs and method invocation as direct substitutes. Method invocation is appropriate when components are known and tightly integrated. ACLs become more valuable when autonomous and heterogeneous agents must communicate across technical or organisational boundaries. Their main advantage is semantic and organisational flexibility, but that flexibility is only useful when shared meanings, protocols and governance are sufficiently well defined.
 
-## References
+**References:**
 
 Finin, T., Fritzson, R., McKay, D. and McEntire, R. (1994) ‘KQML as an agent communication language’, in *Proceedings of the Third International Conference on Information and Knowledge Management*. New York: ACM, pp. 456–463. doi:10.1145/191246.191322.
 

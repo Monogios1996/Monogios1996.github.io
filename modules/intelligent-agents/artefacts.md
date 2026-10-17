@@ -24,6 +24,7 @@ This page indexes substantive evidence created during the module.
 | Unit 9 | Deep Learning Initial Post | Academic discussion post | Individual | LO3, LO4 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-09-deep-learning-initial-post/' | relative_url }}) |
 | Unit 10 | Deep Learning Peer Responses | Academic peer review / discussion | Individual contribution to collaborative activity | LO3, LO4 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-10-deep-learning-peer-responses/' | relative_url }}) |
 | Unit 10 | Deep Learning Feedback Received | Peer feedback record | Collaborative | LO3, LO4 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-10-deep-learning-feedback-received/' | relative_url }}) |
+| Unit 10 | Deep Learning in Action — NVIDIA DLSS | Applied deep-learning research activity | Individual | LO3 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/artefacts/unit-10-deep-learning-in-action-dlss/' | relative_url }}) |
 | Unit 11 | Deep Learning Summary Post | Reflective synthesis | Individual | LO3, LO4 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-11-deep-learning-summary-post/' | relative_url }}) |
 
 ## Collaborative Discussion 1
@@ -102,6 +103,21 @@ This page indexes substantive evidence created during the module.
 **Learning outcome:** Supporting evidence for LO3 through application of a natural-language processing technique used in intelligent systems.
 
 **Evidence:** [View completed artefact]({{ '/modules/intelligent-agents/evidence/artefacts/unit-08-constituency-parse-trees/' | relative_url }})
+---
+
+## Unit 10 — Deep Learning in Action: NVIDIA DLSS
+
+**Purpose:** To research a real-world application of deep learning, explain how it works and evaluate its wider socio-technical impact.
+
+**My contribution:** I selected NVIDIA DLSS and examined Super Resolution, Frame Generation and the use of trained neural models on RTX Tensor Cores. I also considered accessibility, hardware dependence, consumer transparency and the uncertainty around environmental benefits.
+
+**Key result:** The activity showed that evaluating deep-learning applications requires more than describing technical performance. Claims about frame rate, responsiveness, affordability and energy use need to be interpreted in context and supported by appropriate evidence.
+
+**Limitations:** The activity is a literature-based analysis rather than an independent benchmark of DLSS performance or energy consumption.
+
+**Learning outcome:** Supporting evidence for LO3 through application and critical evaluation of a deep-learning technology and its social, ethical and professional implications.
+
+**Evidence:** [View completed artefact]({{ '/modules/intelligent-agents/evidence/artefacts/unit-10-deep-learning-in-action-dlss/' | relative_url }})
 
 ---
 

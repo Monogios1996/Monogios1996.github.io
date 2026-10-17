@@ -21,6 +21,10 @@ This page indexes substantive evidence created during the module.
 | Unit 6 | Agent Dialogue Using KQML and KIF | Structured agent-communication exercise | Individual | LO1 | [View]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-agent-dialogue-kqml-kif/' | relative_url }}) |
 | Unit 7 | Agent Communication Languages Summary Post | Reflective synthesis | Individual | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-07-agent-communication-languages-summary-post/' | relative_url }}) |
 | Unit 8 | Constituency-Based Parse Trees | NLP / parsing exercise | Individual | LO3 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/artefacts/unit-08-constituency-parse-trees/' | relative_url }}) |
+| Unit 9 | Deep Learning Initial Post | Academic discussion post | Individual | LO3, LO4 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-09-deep-learning-initial-post/' | relative_url }}) |
+| Unit 10 | Deep Learning Peer Responses | Academic peer review / discussion | Individual contribution to collaborative activity | LO3, LO4 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-10-deep-learning-peer-responses/' | relative_url }}) |
+| Unit 10 | Deep Learning Feedback Received | Peer feedback record | Collaborative | LO3, LO4 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-10-deep-learning-feedback-received/' | relative_url }}) |
+| Unit 11 | Deep Learning Summary Post | Reflective synthesis | Individual | LO3, LO4 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-11-deep-learning-summary-post/' | relative_url }}) |
 
 ## Collaborative Discussion 1
 
@@ -47,6 +51,21 @@ This page indexes substantive evidence created during the module.
 **Feedback and action:** One direct peer response was received on my initial post. It reinforced the importance of constrained semantics, ontology governance, message validation and permanent logging. I also developed the discussion through my two peer responses, which challenged claims about method invocation and explored practical governance measures.
 
 **Learning outcomes:** LO1 and LO4 for the formal e-portfolio mapping.
+---
+
+## Collaborative Discussion 3
+
+**Purpose:** To evaluate ethical issues associated with generative technologies based on deep learning, including bias, privacy, intellectual property, misinformation, accountability and human oversight.
+
+**My contribution:** I produced the initial analysis, responded critically to two peers, received two substantive peer responses on my own post and used that feedback to refine the final synthesis.
+
+**Key development:** The discussion changed my treatment of human oversight. I moved from presenting human review as a safeguard to recognising that oversight is only meaningful when reviewers have suitable expertise, access to evidence, authority to reject outputs and clearly defined accountability.
+
+**Feedback and action:** Peer feedback strengthened the lifecycle view of AI risk management and challenged the assumption that human involvement automatically improves outcomes. I incorporated continuous evaluation, reporting mechanisms, reviewer capability and distributed accountability into the final summary.
+
+**Learning outcomes:** Supporting evidence for LO3 through consideration of legal, social, ethical and professional issues, and LO4 through structured peer engagement.
+
+**Evidence:** [Initial Post]({{ '/modules/intelligent-agents/evidence/discussions/unit-09-deep-learning-initial-post/' | relative_url }}) · [Peer Responses]({{ '/modules/intelligent-agents/evidence/discussions/unit-10-deep-learning-peer-responses/' | relative_url }}) · [Feedback Received]({{ '/modules/intelligent-agents/evidence/discussions/unit-10-deep-learning-feedback-received/' | relative_url }}) · [Summary Post]({{ '/modules/intelligent-agents/evidence/discussions/unit-11-deep-learning-summary-post/' | relative_url }})
 
 ---
 

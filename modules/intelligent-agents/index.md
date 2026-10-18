@@ -11,6 +11,21 @@ permalink: /modules/intelligent-agents/
 <strong>Module status:</strong> In progress. Evidence for all three collaborative discussions, Unit 6 team and individual activities, Units 8 and 10 learning activities, and the Unit 11 individual implementation is now recorded. The final reflection, skills assessment, development plan, and any outstanding feedback/meeting evidence are still to be finalised.
 </div>
 
+## Main assignments — quick access
+
+<div class="grid">
+  <a class="card card-link" href="{{ '/modules/intelligent-agents/evidence/artefacts/unit-06-group-e-team-design/' | relative_url }}">
+    <h3>Unit 6 — Group E Team Design Proposal</h3>
+    <p>Academic research agent architecture, system overview and UML sequence diagrams, and my contribution to the diagrams and design consistency checks.</p>
+  </a>
+  <a class="card card-link" href="{{ '/modules/intelligent-agents/evidence/artefacts/unit-11-academic-research-agent-implementation/' | relative_url }}">
+    <h3>Unit 11 — Individual Technical Implementation</h3>
+    <p>Working research agent, source code, testing, remediation, final demonstration and evaluation. Builds on the Unit 6 team design.</p>
+  </a>
+</div>
+
+**Other Unit 6 evidence:** [Individual Peer Evaluation]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-group-e-peer-evaluation/' | relative_url }}) · [KQML/KIF Dialogue Exercise]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-agent-dialogue-kqml-kif/' | relative_url }})
+
 ## Module portfolio
 
 <div class="grid">

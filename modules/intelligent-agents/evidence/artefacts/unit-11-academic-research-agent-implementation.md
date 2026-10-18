@@ -122,6 +122,14 @@ The public project repository also contains the implementation, documentation, [
 
 **Future work:** Semantic retrieval, stronger claim-level source verification, provider usage accounting, improved recovery from interrupted runs and a larger human-reviewed evaluation set.
 
+## Assessment result and tutor feedback
+
+**Grade:** 76%, awarded 16 October 2026 by Angesh Anupam.
+
+The tutor recognised the substantial LangGraph implementation, explicit division between model reasoning and deterministic safeguards, systematic failure remediation, tests and candid distinction between structural reliability and research accuracy. Areas identified for further development included independently measured retrieval and factual quality, comparison of architectural alternatives, more recent empirical research, and clearer presentation/screenshots.
+
+**Evidence:** [Full Unit 11 official feedback and assessment marks]({{ '/modules/intelligent-agents/evidence/feedback/unit-11-individual-implementation/' | relative_url }})
+
 ## Learning and learning-outcome mapping
 
 The project showed me that reliable agent behaviour comes not only from language-model capability but from the architecture and deterministic controls around it. In particular, structured planning, limited retry budgets, traceable evidence, grounding safeguards, tested persistence and explicit human approval were necessary to make the system inspectable.

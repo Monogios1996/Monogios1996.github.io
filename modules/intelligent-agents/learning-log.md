@@ -71,6 +71,29 @@ Apply these communication concepts to later agent-system design work by distingu
 
 ---
 
+## Unit 6 — Group E Team Design and Peer Evaluation
+
+**Work completed:**  
+Contributed mainly the system overview and UML sequence diagrams to the Group E academic research agent design proposal. I also checked the consistency of components and control paths against the written design and submitted an individual peer evaluation on 7 September 2026.
+
+**Important concept:**  
+A proposed hybrid agent architecture requires consistent specification of roles, supporting technologies, control flow, bounded retry and replanning, and human approval. The diagrams helped make the design's responsibilities and exception-handling paths inspectable.
+
+**Individual contribution and limitation:**  
+This was a jointly authored *design proposal*, not an implementation. My main contribution was the graphical material and cross-document review rather than sole ownership of the full architecture.
+
+**Evidence created:**  
+- [Team design proposal and individual contribution]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-group-e-team-design/' | relative_url }})
+- [Individual peer-evaluation record]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-group-e-peer-evaluation/' | relative_url }})
+
+**Learning outcomes supported:**  
+LO1, LO2 and LO4, with design-stage support for LO3.
+
+**Next action:**  
+Compare the intended agent workflow, retries and approval controls with the behaviour of the later individual implementation.
+
+---
+
 ## Unit 6 — Creating Agent Dialogues Using KQML and KIF
 
 **Topics studied:**  

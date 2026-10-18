@@ -19,7 +19,7 @@ The Unit 6 KQML/KIF dialogue adds applied evidence by showing how a communicatio
 
 **Apply and critically evaluate intelligent agent techniques to real-world problems, particularly where technical risk and uncertainty is involved.**
 
-Planned evidence may include problem analysis, design rationale, testing, failure cases, risk evaluation and critical assessment of limitations.
+The Unit 6 team proposal provides design-stage evidence of risk identification and bounded remediation. Further implementation evidence may include problem analysis, design rationale, testing, failure cases, risk evaluation and critical assessment of limitations.
 
 ## LO3 — Tools, implementation and responsible practice
 
@@ -31,7 +31,7 @@ Planned evidence may include source code, architecture diagrams, software-tool r
 
 **Systematically develop and implement the skills required to be an effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.**
 
-Current evidence includes structured peer engagement across all three collaborative discussions: responding constructively to alternative arguments, identifying assumptions that required qualification, supporting critiques with literature, incorporating direct peer feedback, and synthesising learning into final positions.
+Current evidence includes the Unit 6 team design and individual peer-evaluation exercise, as well as structured peer engagement across all three collaborative discussions: responding constructively to alternative arguments, identifying assumptions that required qualification, supporting critiques with literature, incorporating direct peer feedback, and synthesising learning into final positions.
 
 ## Evidence mapping table
 
@@ -43,7 +43,8 @@ Current evidence includes structured peer engagement across all three collaborat
 | [Unit 6 — Agent Dialogue Using KQML and KIF]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-agent-dialogue-kqml-kif/' | relative_url }}) | ✓ |  | Supporting |  | Completed |
 | [Unit 8 — Constituency-Based Parse Trees]({{ '/modules/intelligent-agents/evidence/artefacts/unit-08-constituency-parse-trees/' | relative_url }}) |  |  | Supporting |  | Completed |
 | [Unit 10 — Deep Learning in Action: NVIDIA DLSS]({{ '/modules/intelligent-agents/evidence/artefacts/unit-10-deep-learning-in-action-dlss/' | relative_url }}) |  |  | Supporting |  | Completed |
-| Team exercises | ✓ | ✓ | ✓ | ✓ | Awaiting completion |
+| [Unit 6 — Group E Team Design Proposal]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-group-e-team-design/' | relative_url }}) | ✓ | ✓ | Supporting | ✓ | Completed |
+| [Unit 6 — Individual Peer Evaluation]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-group-e-peer-evaluation/' | relative_url }}) |  |  |  | ✓ | Completed |
 | Technical implementation artefacts |  | ✓ | ✓ |  | Awaiting completion |
 | Meeting notes and feedback |  |  |  | ✓ | In progress |
 | Reflective piece | ✓ | ✓ | ✓ | ✓ | To be completed near module end |

@@ -13,19 +13,19 @@ The evidence in this module portfolio is mapped against the following outcomes.
 
 Current evidence includes both collaborative discussions. Discussion 1 distinguished operational multi-agent systems from agent-based modelling and simulation, compared reactive, deliberative and hybrid architectures, and refined the analysis through discussion of emergent behaviour, coordination and bounded autonomy. Discussion 2 extended this analysis to agent communication languages, comparing KQML-style performatives with conventional Python and Java method invocation and examining semantic interoperability, ontologies, coupling and communication governance.
 
-The Unit 6 KQML/KIF dialogue adds applied evidence by showing how a communication performative and a knowledge representation language operate as separate layers in a simple agent exchange.
+The Unit 11 individual implementation applies the Unit 6 group architecture and provides supporting evidence for LO1 through role separation and bounded control. The Unit 6 KQML/KIF dialogue adds applied evidence by showing how a communication performative and a knowledge representation language operate as separate layers in a simple agent exchange.
 
 ## LO2 — Application under risk and uncertainty
 
 **Apply and critically evaluate intelligent agent techniques to real-world problems, particularly where technical risk and uncertainty is involved.**
 
-The Unit 6 team proposal provides design-stage evidence of risk identification and bounded remediation. Further implementation evidence may include problem analysis, design rationale, testing, failure cases, risk evaluation and critical assessment of limitations.
+The Unit 6 team proposal provides design-stage evidence of risk identification and bounded remediation. The Unit 11 individual implementation now provides primary evidence: bounded research-agent orchestration, documented failure cases and remediation, automated testing, a fixed 12-case live structural evaluation, and critical consideration of semantic reliability.
 
 ## LO3 — Tools, implementation and responsible practice
 
 **Deploy critically appropriate software tools and skills for the design and implementation of an agent-based system, bearing in mind applicable legal, social, ethical and professional issues.**
 
-Planned evidence may include source code, architecture diagrams, software-tool rationale, tests, documentation and system-specific ethical or legal analysis. Collaborative Discussion 2 and the Unit 6 KQML/KIF dialogue provide supporting conceptual preparation. Collaborative Discussion 3 provides supporting evidence through its analysis of bias, privacy, intellectual property, provenance, accountability and human oversight. The Unit 10 DLSS activity adds applied evidence by evaluating a real-world deep-learning technology in relation to performance claims, hardware accessibility, consumer transparency and environmental uncertainty. Implementation evidence will still be used for the formal demonstration of this outcome.
+Planned evidence may include source code, architecture diagrams, software-tool rationale, tests, documentation and system-specific ethical or legal analysis. Collaborative Discussion 2 and the Unit 6 KQML/KIF dialogue provide supporting conceptual preparation. Collaborative Discussion 3 provides supporting evidence through its analysis of bias, privacy, intellectual property, provenance, accountability and human oversight. The Unit 10 DLSS activity adds applied evidence by evaluating a real-world deep-learning technology in relation to performance claims, hardware accessibility, consumer transparency and environmental uncertainty. The Unit 11 individual implementation now provides primary technical evidence, including the LangGraph workflow, scholarly APIs, Pydantic models, provider fallback, SQLite persistence, guarded export, tests and critical evaluation.
 
 ## LO4 — Virtual teamwork and professional practice
 
@@ -45,6 +45,6 @@ Current evidence includes the Unit 6 team design and individual peer-evaluation 
 | [Unit 10 — Deep Learning in Action: NVIDIA DLSS]({{ '/modules/intelligent-agents/evidence/artefacts/unit-10-deep-learning-in-action-dlss/' | relative_url }}) |  |  | Supporting |  | Completed |
 | [Unit 6 — Group E Team Design Proposal]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-group-e-team-design/' | relative_url }}) | ✓ | ✓ | Supporting | ✓ | Completed |
 | [Unit 6 — Individual Peer Evaluation]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-group-e-peer-evaluation/' | relative_url }}) |  |  |  | ✓ | Completed |
-| Technical implementation artefacts |  | ✓ | ✓ |  | Awaiting completion |
+| [Unit 11 — Individual Academic Research Agent Implementation]({{ '/modules/intelligent-agents/evidence/artefacts/unit-11-academic-research-agent-implementation/' | relative_url }}) | Supporting | ✓ | ✓ |  | Completed |
 | Meeting notes and feedback |  |  |  | ✓ | In progress |
 | Reflective piece | ✓ | ✓ | ✓ | ✓ | To be completed near module end |

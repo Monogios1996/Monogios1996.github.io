@@ -66,6 +66,14 @@ The design remained a proposal. Its use of specialised agent roles, proposed con
 
 The experience required coordinating a visual representation with a document written collaboratively. I learned that diagram consistency is not only a presentation concern: differences in component names, control paths or approval conditions can conceal ambiguous responsibilities and weaken a design's implementability.
 
+## Assessment result and tutor feedback
+
+**Grade:** 76% (Distinction), awarded 11 September 2026 by Angesh Anupam.
+
+The tutor praised the theoretical grounding, framework comparisons, critical evaluation and especially the system and sequence diagrams showing retries, escalation and human approval. Recommended improvements were a static UML class diagram, precise local-model/hardware specification, and a measurable definition of the 90% evaluation target.
+
+**Evidence:** [Full Unit 6 official feedback]({{ '/modules/intelligent-agents/evidence/feedback/unit-06-team-design/' | relative_url }})
+
 ## Learning-outcome connection
 
 - **LO1:** Comparing agent architectures and designing clearly differentiated roles.

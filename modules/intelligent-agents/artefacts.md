@@ -18,6 +18,8 @@ This page indexes substantive evidence created during the module.
 | Unit 5 | Agent Communication Languages Initial Post | Academic discussion post | Individual | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-05-agent-communication-languages-initial-post/' | relative_url }}) |
 | Unit 6 | Agent Communication Languages Peer Responses | Academic peer review / discussion | Individual contribution to collaborative activity | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-06-agent-communication-languages-peer-responses/' | relative_url }}) |
 | Unit 6 | Agent Communication Languages Feedback Received | Peer feedback record | Collaborative | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-06-agent-communication-languages-feedback-received/' | relative_url }}) |
+| Unit 6 | Group E Academic Research Agent Design Proposal | Team design / individual diagram and QA contribution | Team | LO1, LO2, LO3 (supporting), LO4 | [View]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-group-e-team-design/' | relative_url }}) |
+| Unit 6 | Group E Individual Peer Evaluation | Teamwork peer-evaluation activity | Individual | LO4 | [View]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-group-e-peer-evaluation/' | relative_url }}) |
 | Unit 6 | Agent Dialogue Using KQML and KIF | Structured agent-communication exercise | Individual | LO1 | [View]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-agent-dialogue-kqml-kif/' | relative_url }}) |
 | Unit 7 | Agent Communication Languages Summary Post | Reflective synthesis | Individual | LO1, LO4 | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-07-agent-communication-languages-summary-post/' | relative_url }}) |
 | Unit 8 | Constituency-Based Parse Trees | NLP / parsing exercise | Individual | LO3 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/artefacts/unit-08-constituency-parse-trees/' | relative_url }}) |
@@ -67,6 +69,18 @@ This page indexes substantive evidence created during the module.
 **Learning outcomes:** Supporting evidence for LO3 through consideration of legal, social, ethical and professional issues, and LO4 through structured peer engagement.
 
 **Evidence:** [Initial Post]({{ '/modules/intelligent-agents/evidence/discussions/unit-09-deep-learning-initial-post/' | relative_url }}) · [Peer Responses]({{ '/modules/intelligent-agents/evidence/discussions/unit-10-deep-learning-peer-responses/' | relative_url }}) · [Feedback Received]({{ '/modules/intelligent-agents/evidence/discussions/unit-10-deep-learning-feedback-received/' | relative_url }}) · [Summary Post]({{ '/modules/intelligent-agents/evidence/discussions/unit-11-deep-learning-summary-post/' | relative_url }})
+
+---
+
+## Unit 6 — Group E Team Design and Peer Evaluation
+
+**Team artefact:** The submitted academic research agent design proposal covered the six-role hybrid architecture, bounded validation/retry design, tool choices and UML/system diagrams.
+
+**My contribution:** Primarily system overview and UML sequence diagrams, plus consistency checking between the diagrams and the written design.
+
+**Peer review activity:** I completed the individual team peer evaluation. The public portfolio records the activity without publishing teammates' individual ratings or comments.
+
+**Evidence:** [Team proposal contribution]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-group-e-team-design/' | relative_url }}) · [Individual peer evaluation]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-group-e-peer-evaluation/' | relative_url }})
 
 ---
 

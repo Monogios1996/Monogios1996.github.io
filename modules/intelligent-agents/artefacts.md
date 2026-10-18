@@ -29,6 +29,8 @@ This page indexes substantive evidence created during the module.
 | Unit 10 | Deep Learning in Action — NVIDIA DLSS | Applied deep-learning research activity | Individual | LO3 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/artefacts/unit-10-deep-learning-in-action-dlss/' | relative_url }}) |
 | Unit 11 | Deep Learning Summary Post | Reflective synthesis | Individual | LO3, LO4 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-11-deep-learning-summary-post/' | relative_url }}) |
 
+| Unit 11 | Individual Academic Research Agent Implementation | Code, testing, evaluation and presentation evidence | Individual | LO2, LO3 (primary); LO1 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/artefacts/unit-11-academic-research-agent-implementation/' | relative_url }}) |
+
 ## Collaborative Discussion 1
 
 **Purpose:** To analyse the rise and organisational value of agent-based systems, engage critically with peers and refine the initial argument through feedback.
@@ -132,6 +134,22 @@ This page indexes substantive evidence created during the module.
 **Learning outcome:** Supporting evidence for LO3 through application and critical evaluation of a deep-learning technology and its social, ethical and professional implications.
 
 **Evidence:** [View completed artefact]({{ '/modules/intelligent-agents/evidence/artefacts/unit-10-deep-learning-in-action-dlss/' | relative_url }})
+
+---
+
+## Unit 11 — Individual Academic Research Agent Implementation
+
+**Purpose:** To implement, test, evaluate and demonstrate the academic research agent derived from the Unit 6 Group E design proposal.
+
+**My contribution:** Individual implementation of the bounded LangGraph research workflow, academic retrieval and processing, validation and guarded human-approved export, supported by the submitted code, tests, presentation and development evidence. The preceding Unit 6 specification was a group product, with my principal team contribution being the architecture/UML diagrams and consistency review.
+
+**Testing:** The repository reports 83 automated tests passing and 12/12 live evaluation cases reaching structural success (100%, exceeding the 90% target). These figures assess workflow behaviour, not perfect academic relevance or factual correctness.
+
+**Development and evaluation:** Real integration failures drove changes to hosted-to-local LLM fallback, planner output constraints, deduplication, ranking, summary grounding and persistence. Remaining limitations include lexical retrieval, incomplete academic metadata and limited semantic evaluation.
+
+**Learning outcomes:** Primary evidence for LO2 and LO3, with supporting application of the architecture concepts relevant to LO1. Unit 6 team activity provides the LO4 evidence.
+
+**Evidence:** [View individual implementation record]({{ '/modules/intelligent-agents/evidence/artefacts/unit-11-academic-research-agent-implementation/' | relative_url }}) · [Code and testing repository](https://github.com/Monogios1996/llm-academic-research-agent)
 
 ---
 

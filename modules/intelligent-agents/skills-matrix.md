@@ -11,7 +11,7 @@ This matrix reviews professional skill development across the Intelligent Agents
 
 **Rating scale:** 1 = limited; 2 = developing; 3 = competent; 4 = strong; 5 = advanced.
 
-> **Draft for self-assessment confirmation:** The ratings below are **proposed, retrospective self-assessment estimates**, not ratings recorded at the start of the module or marks awarded by the university. The **start** estimates are particularly uncertain because no contemporaneous baseline skills survey was supplied. The **current** estimates are informed by the submitted work and tutor feedback, but still need to be confirmed or adjusted by me before this is presented as my final personal assessment. A 76% assignment mark is not equivalent to any numerical skills rating.
+> **Self-assessment confirmed on 18 October 2026:** The start and current ratings below have been reviewed and accepted as a **retrospective self-assessment**. They were not measured at the beginning of the module, and the start ratings remain estimates because no contemporaneous baseline survey was supplied. The current ratings are informed by coursework and tutor feedback but are not university-assigned skills marks. A 76% assignment grade is not equivalent to a numerical skills rating.
 
 ## Skills assessment
 
@@ -29,7 +29,7 @@ This matrix reviews professional skill development across the Intelligent Agents
 | **Teamwork, global citizenship and leadership** | 3 | 3 | Delivered defined diagram and consistency-check responsibilities for [Group E]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-group-e-team-design/' | relative_url }}) and completed an [individual peer evaluation]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-group-e-peer-evaluation/' | relative_url }}). Collaborated constructively with peers across the discussions. | Strengthen evidence of personal coordination/leadership, task ownership and team-process improvement. No formal meeting records or individual leadership role are claimed. |
 | **Critical reflection** | 3 | 4 | The three [discussion summaries]({{ '/modules/intelligent-agents/collaborative-discussions/' | relative_url }}) respond to feedback and revise assumptions. The [Unit 11 evaluation]({{ '/modules/intelligent-agents/evidence/artefacts/unit-11-academic-research-agent-implementation/' | relative_url }}) identifies genuine limitations, and the [tutor feedback]({{ '/modules/intelligent-agents/feedback/' | relative_url }}) gives explicit priorities for improvement. | Convert identified weaknesses into measurable actions, review outcomes, and distinguish completed improvements from future intentions. |
 
-*Proposed ratings only — subject to personal confirmation. A stable rating does not mean no learning occurred; it can mean improvement within a skill level or that the available evidence is insufficient to justify moving up.*
+*Confirmed retrospective self-ratings. A stable rating does not mean no learning occurred; it can mean improvement within a skill level or insufficient evidence to justify moving up.*
 
 ## Development demonstrated across the module
 
@@ -39,15 +39,17 @@ This matrix reviews professional skill development across the Intelligent Agents
 
 **Teamwork and communication:** The Unit 6 diagrams and consistency checks were a defined contribution to the team design, and the peer-evaluation exercise provided structured experience assessing collaboration. Written academic engagement was strong, but the Unit 11 tutor identified weaknesses in presentation precision, proofreading and screenshot readability. These should not be obscured by the overall grade.
 
-## Priorities to carry into the Professional Development Plan
+## Development priorities and action plan
 
 1. **Research-quality evaluation:** Build a small human-reviewed benchmark and evaluate evidence relevance, citation traceability and factual support separately from structural success.
 2. **Technical communication:** Introduce a pre-submission proofreading and presentation checklist; use readable screenshots and concise reporting of the most important metrics.
 3. **Contemporary research and comparison:** Strengthen Level 7 technical justification using recent empirical studies and a documented comparison with alternative agent architectures.
 4. **Engineering documentation:** Add a clear static component/data diagram and benchmark the specified local model with documented hardware and runtime conditions.
 
+**Action plan:** [View the completed Professional Development Plan]({{ '/modules/intelligent-agents/action-plan/' | relative_url }})
+
 ## Evidence and limitations
 
 The evidence is drawn from the [Artefact Register]({{ '/modules/intelligent-agents/artefacts/' | relative_url }}), [Team Exercises]({{ '/modules/intelligent-agents/team-exercises/' | relative_url }}), [Collaborative Discussions]({{ '/modules/intelligent-agents/collaborative-discussions/' | relative_url }}), [Feedback]({{ '/modules/intelligent-agents/feedback/' | relative_url }}) and [Unit 11 implementation]({{ '/modules/intelligent-agents/evidence/artefacts/unit-11-academic-research-agent-implementation/' | relative_url }}).
 
-No formal team meeting minutes or original baseline skills ratings were supplied; neither is invented here. The matrix distinguishes demonstrated achievements from remaining gaps. **The numerical self-ratings should be confirmed before final portfolio submission.**
+No formal team meeting minutes or original baseline skills ratings were supplied; neither is invented here. The matrix distinguishes demonstrated achievements from remaining gaps. **The self-ratings were confirmed retrospectively on 18 October 2026, while their limitations are acknowledged above.**

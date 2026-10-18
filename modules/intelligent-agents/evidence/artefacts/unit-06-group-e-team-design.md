@@ -75,6 +75,6 @@ The experience required coordinating a visual representation with a document wri
 
 **Related activity:** [Unit 6 — Individual Peer Evaluation]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-group-e-peer-evaluation/' | relative_url }})
 
-**Later individual continuation:** [Academic Research Agent implementation repository](https://github.com/Monogios1996/llm-academic-research-agent)
+**Later individual continuation:** [Unit 11 implementation and evaluation record]({{ '/modules/intelligent-agents/evidence/artefacts/unit-11-academic-research-agent-implementation/' | relative_url }}) · [Academic Research Agent implementation repository](https://github.com/Monogios1996/llm-academic-research-agent)
 
 *Source: submitted Group E design proposal, “LLM-Powered Academic Research and Information-Gathering Planning Agent”, Unit 6. The original Word document is retained as the source artefact.*

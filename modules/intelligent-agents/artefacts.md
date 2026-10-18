@@ -28,7 +28,6 @@ This page indexes substantive evidence created during the module.
 | Unit 10 | Deep Learning Feedback Received | Peer feedback record | Collaborative | LO3, LO4 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-10-deep-learning-feedback-received/' | relative_url }}) |
 | Unit 10 | Deep Learning in Action — NVIDIA DLSS | Applied deep-learning research activity | Individual | LO3 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/artefacts/unit-10-deep-learning-in-action-dlss/' | relative_url }}) |
 | Unit 11 | Deep Learning Summary Post | Reflective synthesis | Individual | LO3, LO4 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/discussions/unit-11-deep-learning-summary-post/' | relative_url }}) |
-
 | Unit 11 | Individual Academic Research Agent Implementation | Code, testing, evaluation and presentation evidence | Individual | LO2, LO3 (primary); LO1 (supporting) | [View]({{ '/modules/intelligent-agents/evidence/artefacts/unit-11-academic-research-agent-implementation/' | relative_url }}) |
 
 ## Collaborative Discussion 1

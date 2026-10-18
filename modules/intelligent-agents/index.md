@@ -8,7 +8,7 @@ permalink: /modules/intelligent-agents/
 <p class="lead">This module portfolio will document the critical analysis, design, implementation and evaluation of intelligent agent systems, together with evidence of virtual teamwork and professional development.</p>
 
 <div class="notice">
-<strong>Module status:</strong> In progress. Evidence for all three collaborative discussions, Unit 6 team and individual activities, Units 8 and 10 learning activities, and the Unit 11 individual implementation is now recorded. The final reflection, skills assessment, development plan, and any outstanding feedback/meeting evidence are still to be finalised.
+<strong>Module status:</strong> In progress. Evidence for all three collaborative discussions, Unit 6 team and individual activities, Units 8 and 10 learning activities, and the Unit 11 individual implementation is now recorded. The final reflection, skills assessment, development plan, are still to be finalised. Both assignment feedback records are included; no formal meeting minutes are available.
 </div>
 
 ## Main assignments — quick access

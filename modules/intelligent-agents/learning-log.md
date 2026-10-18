@@ -197,6 +197,35 @@ Apply the same evidence-based approach when assessing performance, risk and clai
 
 ---
 
+## Unit 11 — Individual Academic Research Agent Implementation and Evaluation
+
+**Topics studied:**  
+Agent orchestration, goal decomposition, scholarly retrieval, deterministic relevance processing, evidence validation, bounded retries and re-planning, LLM fallback, grounded summarisation, persistent workflow state, human approval and evaluation design.
+
+**Activity completed:**  
+Implemented and demonstrated an individual academic research agent developed from the Unit 6 team design. The final prototype used LangGraph, Crossref and OpenAlex, hosted Hugging Face inference with an optional Ollama/Qwen3 fallback, SQLite checkpoints and guarded Markdown/JSON/CSV export.
+
+**Important concepts and results:**  
+The submitted repository reports 83 passing automated tests and 12/12 structural successes in the fixed live evaluation. This provided evidence for workflow reliability under the test conditions but not proof of perfect semantic relevance or factual accuracy.
+
+**Difficulties and changes made:**  
+Observed provider failures, invalid local planner output, duplicate or weakly related results, unsupported summary details and checkpoint serialization issues. These led to local fallback, schema constraints, global deduplication, stronger filtering, deterministic grounding fallbacks and serializer regression tests.
+
+**Critical evaluation:**  
+I learned that model capability alone is insufficient: explicit states, traceability, bounded remediation and a code-enforced approval boundary make agent behaviour more inspectable. The remaining weaknesses include primarily lexical ranking, variable scholarly metadata and the absence of a large manually judged semantic evaluation.
+
+**Evidence created:**  
+- [Unit 11 individual implementation and assessment evidence]({{ '/modules/intelligent-agents/evidence/artefacts/unit-11-academic-research-agent-implementation/' | relative_url }})
+- [Source code, tests and development records](https://github.com/Monogios1996/llm-academic-research-agent)
+
+**Learning outcomes supported:**  
+LO2 and LO3 as primary evidence, with LO1 as supporting design evidence. LO4 teamwork is evidenced separately in the Unit 6 team submission.
+
+**Next action:**  
+If the prototype were extended, evaluate semantic source quality on a larger manually reviewed dataset, strengthen claim-level verification and consider semantic retrieval.
+
+---
+
 ## Weekly entry template
 
 ### Unit / week

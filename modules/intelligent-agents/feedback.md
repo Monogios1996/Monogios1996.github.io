@@ -15,6 +15,15 @@ The value of this section is not the feedback alone, but the change made because
 | Unit 10 | Peer 1 | Collaborative Discussion 3 — Initial Post | Emphasised that safeguards should operate across the entire AI lifecycle, including dataset provenance, consent, sensitive-data filtering, monitoring and periodic evaluation. | My original post identified several controls but did not sufficiently emphasise that they require continuing evaluation after deployment. | Extended the final position toward repeated testing and mechanisms for reporting harmful or reproduced content. | [Feedback record]({{ '/modules/intelligent-agents/evidence/discussions/unit-10-deep-learning-feedback-received/' | relative_url }}) and [Summary Post]({{ '/modules/intelligent-agents/evidence/discussions/unit-11-deep-learning-summary-post/' | relative_url }}) |
 | Unit 10 | Peer 2 | Collaborative Discussion 3 — Initial Post | Challenged the assumption that human-in-the-loop review automatically improves outcomes and raised accountability gaps where responsibility is distributed. | Human involvement is not equivalent to meaningful oversight; reviewer expertise, evidence, authority and explicit responsibility matter. | Revised the final position so that safeguards are judged by demonstrated effectiveness rather than by their nominal presence. | [Feedback record]({{ '/modules/intelligent-agents/evidence/discussions/unit-10-deep-learning-feedback-received/' | relative_url }}) and [Summary Post]({{ '/modules/intelligent-agents/evidence/discussions/unit-11-deep-learning-summary-post/' | relative_url }}) |
 
+## Official assessment feedback
+
+| Date | Assessment | Grade | Strengths identified | Improvements identified | Evidence |
+|---|---|---|---|---|---|
+| 11 September 2026 | Unit 6 — Group E Design Proposal | **76% (Distinction)** | Theoretical grounding; justified LangGraph/Prometheus choices; clear system and UML sequence diagrams; risk analysis | Add static UML class diagram; specify local model/hardware; define evaluation and research-quality measures | [Full tutor feedback]({{ '/modules/intelligent-agents/evidence/feedback/unit-06-team-design/' | relative_url }}) |
+| 16 October 2026 | Unit 11 — Individual Implementation | **76%** | Strong LangGraph implementation, bounded control, documented testing/remediation, critical interpretation of structural success | Independent semantic evaluation; recent empirical literature; comparative evaluation; proofreading and clearer screenshots | [Full tutor feedback]({{ '/modules/intelligent-agents/evidence/feedback/unit-11-individual-implementation/' | relative_url }}) |
+
+**Feedback → development:** Unit 6 feedback about underspecified fallback and a vague 90% target informed the later individual implementation, which specified a Qwen3 local fallback and reported a fixed 12-case structural evaluation. The requested UML class diagram, comprehensive hardware evaluation, independent factual accuracy/relevance tests and presentation improvements remain opportunities for further work; no completed post-assessment remediation is claimed.
+
 ## Feedback workflow
 
 **Feedback → interpretation → revision → result**

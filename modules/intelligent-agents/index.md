@@ -8,13 +8,13 @@ permalink: /modules/intelligent-agents/
 <p class="lead">This module portfolio will document the critical analysis, design, implementation and evaluation of intelligent agent systems, together with evidence of virtual teamwork and professional development.</p>
 
 <div class="notice">
-<strong>Module status:</strong> In progress. The framework is complete, but no coursework evidence has been invented or added before completion.
+<strong>Module status:</strong> In progress. Evidence for all three collaborative discussions, Unit 6 team and individual activities, Units 8 and 10 learning activities, and the Unit 11 individual implementation is now recorded. The final reflection, skills assessment, development plan, and any outstanding feedback/meeting evidence are still to be finalised.
 </div>
 
 ## Module portfolio
 
 <div class="grid">
-  <a class="card card-link" href="{{ '/modules/intelligent-agents/learning-outcomes/' | relative_url }}"><h3>Learning Outcomes</h3><p>Requirements and planned evidence mapping.</p></a>
+  <a class="card card-link" href="{{ '/modules/intelligent-agents/learning-outcomes/' | relative_url }}"><h3>Learning Outcomes</h3><p>Requirements and evidence mapping.</p></a>
   <a class="card card-link" href="{{ '/modules/intelligent-agents/learning-log/' | relative_url }}"><h3>Learning Log</h3><p>Weekly record of concepts, work completed and emerging questions.</p></a>
   <a class="card card-link" href="{{ '/modules/intelligent-agents/collaborative-discussions/' | relative_url }}"><h3>Collaborative Discussions</h3><p>Initial posts, peer responses, feedback and synthesis.</p></a>
   <a class="card card-link" href="{{ '/modules/intelligent-agents/team-exercises/' | relative_url }}"><h3>Team Exercises</h3><p>Team outputs, role evidence, technical decisions and evaluation.</p></a>

@@ -8,7 +8,7 @@ permalink: /modules/intelligent-agents/
 <p class="lead">This module portfolio will document the critical analysis, design, implementation and evaluation of intelligent agent systems, together with evidence of virtual teamwork and professional development.</p>
 
 <div class="notice">
-<strong>Module status:</strong> In progress. Evidence for all three collaborative discussions, Unit 6 team and individual activities, Units 8 and 10 learning activities, and the Unit 11 individual implementation is now recorded. The final reflection, skills assessment, development plan, are still to be finalised. Both assignment feedback records are included; no formal meeting minutes are available.
+<strong>Module status:</strong> In progress. Evidence for all three collaborative discussions, Unit 6 team and individual activities, Units 8 and 10 learning activities, and the Unit 11 individual implementation is now recorded. The final reflection, skills assessment and development plan are now included. Both assignment feedback records are included; no formal meeting minutes are available.
 </div>
 
 ## Main assignments — quick access
@@ -25,6 +25,19 @@ permalink: /modules/intelligent-agents/
 </div>
 
 **Other Unit 6 evidence:** [Individual Peer Evaluation]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-group-e-peer-evaluation/' | relative_url }}) · [KQML/KIF Dialogue Exercise]({{ '/modules/intelligent-agents/evidence/artefacts/unit-06-agent-dialogue-kqml-kif/' | relative_url }})
+
+## Final reflective assessment
+
+<div class="grid">
+  <a class="card card-link" href="{{ '/modules/intelligent-agents/case-studies/' | relative_url }}">
+    <h3>Three Reflective Case Studies</h3>
+    <p>AI safety constraints, explainability, and responsible deployment, using the submitted Word document.</p>
+  </a>
+  <a class="card card-link" href="{{ '/modules/intelligent-agents/reflection/' | relative_url }}">
+    <h3>Final Reflective Piece</h3>
+    <p>My module-wide reflection on agent architectures, implementation, evaluation, teamwork and feedback.</p>
+  </a>
+</div>
 
 ## Module portfolio
 

@@ -49,7 +49,9 @@ So, my diagrams and logs show evidence of documentation and traceability, but do
 
 ### Now what?
 
-Now, for the future, I would make it more clear and easier to understand for users why sources received each score, the reasons behind rejection and what information was missing. I would additionally link the summary claims to their original sources, if possible. In order to test if these changes actually helped i would have users try to find incorrect source selections and claims that didnt have enough evidence, by this i could show if the explanations helped users recognise mistakes. If I just added more logs it wouldn't be enough, because too much information would make it even harder to review the system. Case Study 3: Responsible Deployment and Unintended Behaviour
+Now, for the future, I would make it more clear and easier to understand for users why sources received each score, the reasons behind rejection and what information was missing. I would additionally link the summary claims to their original sources, if possible. In order to test if these changes actually helped i would have users try to find incorrect source selections and claims that didnt have enough evidence, by this i could show if the explanations helped users recognise mistakes. If I just added more logs it wouldn't be enough, because too much information would make it even harder to review the system. 
+
+## Case Study 3: Responsible Deployment and Unintended Behaviour
 
 ### What?
 

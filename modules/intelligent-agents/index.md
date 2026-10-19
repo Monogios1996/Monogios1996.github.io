@@ -5,10 +5,10 @@ permalink: /modules/intelligent-agents/
 
 # Intelligent Agents
 
-<p class="lead">This module portfolio will document the critical analysis, design, implementation and evaluation of intelligent agent systems, together with evidence of virtual teamwork and professional development.</p>
+<p class="lead">This module portfolio documents the critical analysis, design, implementation and evaluation of intelligent agent systems, together with evidence of virtual teamwork and professional development.</p>
 
 <div class="notice">
-<strong>Module status:</strong> In progress. Evidence for all three collaborative discussions, Unit 6 team and individual activities, Units 8 and 10 learning activities, and the Unit 11 individual implementation is now recorded. The final reflection, skills assessment and development plan are now included. Both assignment feedback records are included; no formal meeting minutes are available.
+<strong>Module status:</strong> Completed. The portfolio includes the collaborative discussions, Unit 6 group and individual activities, Units 8 and 10 exercises, Unit 11 individual implementation, three reflective case studies, final reflective piece, skills assessment, development plan and tutor feedback. No formal meeting minutes are available.
 </div>
 
 ## Main assignments — quick access
@@ -56,9 +56,9 @@ permalink: /modules/intelligent-agents/
 
 ## Evidence map at a glance
 
-| Learning outcome | Planned primary evidence |
+| Learning outcome | Primary evidence |
 |---|---|
 | LO1 | Collaborative discussions and architecture comparisons |
 | LO2 | Team exercises, real-world application and evaluation |
 | LO3 | Code, tool selection, testing and ethical/legal analysis |
-| LO4 | Meeting notes, task allocation, peer feedback and reflection |
+| LO4 | Group contributions, peer evaluation, discussion participation and reflection |

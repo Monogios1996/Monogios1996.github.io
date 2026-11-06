@@ -21,9 +21,14 @@ This page provides a progressive overview of my work across the University of Es
   </div>
 
   <a class="card card-link" href="{{ '/modules/intelligent-agents/' | relative_url }}">
-    <span class="status active">In progress</span>
+    <span class="status">Completed</span>
     <h3>Intelligent Agents</h3>
     <p>Agent architectures, real-world application, implementation, risk, ethics and virtual teamwork.</p>
+  </a>
+  <a class="card card-link" href="{{ '/modules/machine-learning/' | relative_url }}">
+    <span class="status active">In progress</span>
+    <h3>Machine Learning</h3>
+    <p>Data suitability, correlation, regression, model evaluation and professional practice. Includes the first practical portfolio activity from Unit 3.</p>
   </a>
 </div>
 
@@ -38,3 +43,4 @@ For every module, the portfolio will aim to show:
 - strengths, limitations and lessons learned;
 - explicit links to module learning outcomes;
 - future development through a professional action plan.
+

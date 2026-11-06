@@ -1,0 +1,165 @@
+{
+  "correlation_results": [
+    {
+      "Scenario": "Baseline",
+      "n": 1000,
+      "Sample covariance": 389.754561802618,
+      "Pearson r": 0.8876119085795309
+    },
+    {
+      "Scenario": "More noise",
+      "n": 1000,
+      "Sample covariance": 407.4408998365719,
+      "Pearson r": 0.3737178314195414
+    },
+    {
+      "Scenario": "Negative relationship",
+      "n": 1000,
+      "Sample covariance": -380.9113927856411,
+      "Pearson r": -0.8832223448253476
+    },
+    {
+      "Scenario": "Rescale y",
+      "n": 1000,
+      "Sample covariance": 3897.5456180261817,
+      "Pearson r": 0.8876119085795311
+    },
+    {
+      "Scenario": "Nonlinear: y = x squared",
+      "n": 1000,
+      "Sample covariance": -1.13800638359976e-15,
+      "Pearson r": -5.109158963051979e-17
+    }
+  ],
+  "linear_results": [
+    {
+      "Scenario": "Baseline",
+      "Slope": -1.7512877115526118,
+      "Intercept": 103.10596026490066,
+      "Pearson r": -0.758591524376155,
+      "Training R2": 0.5754611008553381,
+      "Prediction at chosen x": 85.59308314937454
+    },
+    {
+      "Scenario": "Shift all y",
+      "Slope": -1.7512877115526118,
+      "Intercept": 123.10596026490066,
+      "Pearson r": -0.758591524376155,
+      "Training R2": 0.5754611008553381,
+      "Prediction at chosen x": 105.59308314937454
+    },
+    {
+      "Scenario": "Change one point",
+      "Slope": 1.5702722590139808,
+      "Intercept": 83.50331125827816,
+      "Pearson r": 0.3031090779200361,
+      "Training R2": 0.09187511311753427,
+      "Prediction at chosen x": 99.20603384841797
+    },
+    {
+      "Scenario": "Add noise",
+      "Slope": -1.8135548220775148,
+      "Intercept": 101.69650309558371,
+      "Pearson r": -0.5453677128393186,
+      "Training R2": 0.2974259422075891,
+      "Prediction at chosen x": 83.56095487480856
+    }
+  ],
+  "multiple_results": [
+    {
+      "Scenario": "Baseline",
+      "Weight coefficient": 0.0075509472703006895,
+      "Volume coefficient": 0.007805257527747124,
+      "Intercept": 79.69471929115939,
+      "Training R2": 0.3765564043619989,
+      "Chosen-case prediction": 102.75445751397575
+    },
+    {
+      "Scenario": "One target changed",
+      "Weight coefficient": 0.038146720689737595,
+      "Volume coefficient": 0.0007979450058941698,
+      "Intercept": 54.22381804806016,
+      "Training R2": 0.21418925288791613,
+      "Chosen-case prediction": 108.90593902312347
+    },
+    {
+      "Scenario": "Noise added",
+      "Weight coefficient": 0.004795245646285611,
+      "Volume coefficient": 0.011797623095084716,
+      "Intercept": 77.56220464432033,
+      "Training R2": 0.2146127254516742,
+      "Chosen-case prediction": 103.15174550125573
+    }
+  ],
+  "multiple_holdout": [
+    {
+      "Predictors": "Weight",
+      "Training R2": 0.23124173263903802,
+      "Test R2": 0.24524513254636027,
+      "Test RMSE (g/km)": 7.920133562673763
+    },
+    {
+      "Predictors": "Volume",
+      "Training R2": 0.2197494403900404,
+      "Test R2": 0.38390372095078507,
+      "Test RMSE (g/km)": 7.155728216135757
+    },
+    {
+      "Predictors": "Weight + Volume",
+      "Training R2": 0.25598249893381375,
+      "Test R2": 0.3779609856472951,
+      "Test RMSE (g/km)": 7.190156718550277
+    }
+  ],
+  "polynomial_degrees": [
+    {
+      "Degree": 1,
+      "Training R2": 0.1760576073649197,
+      "Test R2": 0.19283546180800093,
+      "Test RMSE": 9.725718190415291,
+      "Prediction at chosen time": 84.34780528644896,
+      "Extrapolation at x=25": 92.43583303432602
+    },
+    {
+      "Degree": 2,
+      "Training R2": 0.7567349586895517,
+      "Test R2": 0.7559542611364072,
+      "Test RMSE": 5.34781357407654,
+      "Prediction at chosen time": 80.28528011941883,
+      "Extrapolation at x=25": 133.92795067972295
+    },
+    {
+      "Degree": 3,
+      "Training R2": 0.9405493977530404,
+      "Test R2": 0.9559273220508395,
+      "Test RMSE": 2.272612361835438,
+      "Prediction at chosen time": 89.08585601582678,
+      "Extrapolation at x=25": 91.21453124038695
+    },
+    {
+      "Degree": 10,
+      "Training R2": 0.9920827551827553,
+      "Test R2": 0.9675045943659295,
+      "Test RMSE": 1.9514239282489683,
+      "Prediction at chosen time": 83.98096230948673,
+      "Extrapolation at x=25": 1831.6390343545843
+    }
+  ],
+  "polynomial_changes": [
+    {
+      "Scenario": "Baseline cubic",
+      "Training R2": 0.9432150416451027,
+      "Prediction at chosen time": 88.87331269697985
+    },
+    {
+      "Scenario": "Noise added",
+      "Training R2": 0.7964549855977475,
+      "Prediction at chosen time": 93.30722707932969
+    },
+    {
+      "Scenario": "One point changed",
+      "Training R2": 0.32992280438784327,
+      "Prediction at chosen time": 90.53062612490217
+    }
+  ]
+}

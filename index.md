@@ -28,12 +28,18 @@ This portfolio documents both completed work and the process behind it. Each mod
   </a>
 
   <a class="card card-link" href="{{ '/modules/intelligent-agents/' | relative_url }}">
-    <span class="status active">Current module</span>
+    <span class="status">Completed module</span>
     <h3>Intelligent Agents</h3>
-    <p>The live portfolio structure for discussions, team exercises, artefacts, feedback and reflection.</p>
+    <p>Completed discussions, team design, individual implementation, feedback and reflection.</p>
+  </a>
+  <a class="card card-link" href="{{ '/modules/machine-learning/' | relative_url }}">
+    <span class="status active">Current module</span>
+    <h3>Machine Learning</h3>
+    <p>Practical experiments, model evaluation and responsible use of data. First activity: Unit 3 correlation and regression.</p>
   </a>
 </div>
 
 <div class="notice">
-<strong>Current status:</strong> The Intelligent Agents module has recently started. Its structure is ready and will be populated progressively as assessed and developmental work is completed.
+<strong>Current status:</strong> Machine Learning is in progress, with the Unit 3 correlation and regression activity recorded as its first portfolio entry. The Intelligent Agents portfolio is complete.
 </div>
+
